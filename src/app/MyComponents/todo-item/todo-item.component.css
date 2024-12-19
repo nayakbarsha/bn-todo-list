@@ -1,0 +1,5 @@
+.strike{
+    text-decoration: line-through;
+    color: #888888; /* Optional: makes the text grey */
+    opacity: 0.8;   /* Optional: reduces opacity slightly */
+}
